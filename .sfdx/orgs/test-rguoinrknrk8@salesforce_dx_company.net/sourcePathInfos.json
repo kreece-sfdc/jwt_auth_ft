@@ -1,0 +1,140 @@
+[
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516186983135,
+            "changeTime": 1516186983135,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1516186983135,
+            "changeTime": 1516186983135,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1516187150142,
+            "changeTime": 1516187150142,
+            "contentHash": "461eeafc376496d626321d1533a6b2401f757253"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1516186983135,
+            "changeTime": 1516186983135,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1516187043086,
+            "changeTime": 1516187043086,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWTBearerFlow.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWTBearerFlow.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516187150143,
+            "changeTime": 1516187150143,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWTBearerFlow.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWTBearerFlow.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1152,
+            "modifiedTime": 1516187150144,
+            "changeTime": 1516187150144,
+            "contentHash": "74981d7d1a10155dbda467b12ef3b9b3fd5f4c5d"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWT.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWT.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516187150146,
+            "changeTime": 1516187150146,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWT.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes/JWT.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3075,
+            "modifiedTime": 1516187150146,
+            "changeTime": 1516187150146,
+            "contentHash": "0d60be2b5fbc87b9e2fc65a9ef3899b3e37a5df4"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/jwt_auth_ft/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1516187150146,
+            "changeTime": 1516187150146,
+            "contentHash": "a837f594880f3507e59c640e82c529dc37a37083"
+        }
+    ]
+]
